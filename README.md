@@ -1,4 +1,4 @@
-# O-GlyThr is a tool for prediction of O-glycosites linked to the threonine residues in Homo sapiens, which identifies a “T” as a positive O-glycosite if its probability is 0.5 or higher. 
+O-GlyThr is a tool for prediction of O-glycosites linked to the threonine residues in Homo sapiens, which identifies a “T” as a positive O-glycosite if its probability is 0.5 or higher. 
 
 ## You can use our training data to train a new model according to the following steps:
 1.	Create two file folders named “train” and “test”.
